@@ -45,7 +45,7 @@ Performed using **R**:
 - Visualizations: Histograms, heatmaps, correlation matrices
 - Libraries used: `ggplot2`, `pheatmap`, `corrplot`
 
-📄 See `Breast Cancer EDA commands.docx` for full R scripts.
+
 
 ---
 
@@ -61,7 +61,7 @@ Performed using **R**:
 
 All models tuned using **Grid Search** + 5-Fold Cross-Validation.
 
-📄 See `Breast Cancer Grid search commands.docx` for implementation details.
+
 
 ---
 
